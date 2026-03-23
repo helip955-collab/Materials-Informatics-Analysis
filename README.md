@@ -23,13 +23,13 @@ I am currently based in **Edison, New Jersey**, and I am looking for opportuniti
 ### Silicon Compound Stability Analysis
 This scatter plot visualizes the relationship between **Formation Energy (Thermodynamic Stability)** and **Band Gap (Electronic Nature)** for over 2,500 Silicon-based compounds retrieved via **the Materials Project API**.
 
-**Trend:** Highly stable compounds (lower Formation Energy) tend to cluster around a band gap of $4\text{--}5\text{ eV}$ <br>.
+**Trend:** Highly stable compounds (lower Formation Energy) tend to cluster around a band gap of $4\text{--}5\text{ eV}$. <br>
 **Insights:** The color gradient (Band Gap Intensity) allows for rapid identification of insulators (Yellow) versus metallic conductors (Deep Blue).
 
 By plotting **Formation Energy** ($E_f$) against **Band Gap** ($E_g$), we can categorize materials into functional groups:
 
-**Metallic Phase ($E_g = 0$ eV):** The dense cluster of dark blue points along the x-axis represents metallic or semi-metallic compounds. In these materials, the valence and conduction bands overlap, allowing for high electrical conductivity. These are often explored for contact materials in semiconductor devices <br>.
-**Semiconducting Region ($0 < E_g < 3$ eV):** The magenta and purple points represent the "active" semiconductors. These are the primary targets for photovoltaic (solar) and transistor applications<br>.
-**Insulating Phase ($E_g > 4$ eV):** The yellow and orange "outliers" at the top are wide-bandgap insulators. These are thermodynamically stable (low $E_f$) and are critical for high-power electronics and dielectric layers<br>.
+**Metallic Phase ($E_g = 0$ eV):** The dense cluster of dark blue points along the x-axis represents metallic or semi-metallic compounds. In these materials, the valence and conduction bands overlap, allowing for high electrical conductivity. These are often explored for contact materials in semiconductor devices. <br>
+**Semiconducting Region ($0 < E_g < 3$ eV):** The magenta and purple points represent the "active" semiconductors. These are the primary targets for photovoltaic (solar) and transistor applications.<br>
+**Insulating Phase ($E_g > 4$ eV):** The yellow and orange "outliers" at the top are wide-bandgap insulators. These are thermodynamically stable (low $E_f$) and are critical for high-power electronics and dielectric layers.<br>
 
 **Key Discovery:** The most stable Si-compounds in this dataset exhibit a "Band Gap Gap"—a region where few materials exist—suggesting specific structural symmetries that favor either high stability or high transparency.
