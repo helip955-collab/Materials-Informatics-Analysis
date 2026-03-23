@@ -19,3 +19,9 @@ I am currently based in **Edison, New Jersey**, and I am looking for opportuniti
 - **Education:** MSc Physics (Condensed Matter) - Sardar Patel University, India
 - **Location:** Edison, NJ (Open to NJ/NY/Remote roles)
 - **Email:** [helip955@gmail.com]
+# Physics Analysis
+### Silicon Compound Stability Analysis
+This scatter plot visualizes the relationship between **Formation Energy (Thermodynamic Stability)** and **Band Gap (Electronic Nature)** for over 2,500 Silicon-based compounds retrieved via **the Materials Project API**.
+
+**Trend:** Highly stable compounds (lower Formation Energy) tend to cluster around a band gap of $4\text{--}5\text{ eV}$.
+**Insights:** The color gradient (Band Gap Intensity) allows for rapid identification of insulators (Yellow) versus metallic conductors (Deep Blue).
