@@ -33,3 +33,12 @@ By plotting **Formation Energy** ($E_f$) against **Band Gap** ($E_g$), we can ca
 **Insulating Phase ($E_g > 4$ eV):** The yellow and orange "outliers" at the top are wide-bandgap insulators. These are thermodynamically stable (low $E_f$) and are critical for high-power electronics and dielectric layers.<br>
 
 **Key Discovery:** The most stable Si-compounds in this dataset exhibit a "Band Gap Gap"—a region where few materials exist—suggesting specific structural symmetries that favor either high stability or high transparency.
+
+---
+## 📬 Contact & Collaboration
+I am a **Physics MSc** graduate (Condensed Matter) currently transitioning into **Materials Informatics** and **Data Science**. I am based in **Edison, New Jersey**, and I am open to entry-level roles or research collaborations.
+
+* **LinkedIn:** [https://www.linkedin.com/in/heli-patel-4447063aa?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+* **Email:** [helip955@gmail.com]
+* **Location:** Edison, NJ (Open to remote or local NJ/NY roles)
+* **Expertise:** Physics Research, Python (Data Analysis), Materials Project API, and Machine Learning.
