@@ -23,5 +23,5 @@ I am currently based in **Edison, New Jersey**, and I am looking for opportuniti
 ### Silicon Compound Stability Analysis
 This scatter plot visualizes the relationship between **Formation Energy (Thermodynamic Stability)** and **Band Gap (Electronic Nature)** for over 2,500 Silicon-based compounds retrieved via **the Materials Project API**.
 
-**Trend:** Highly stable compounds (lower Formation Energy) tend to cluster around a band gap of $4\text{--}5\text{ eV}$.
+**Trend:** Highly stable compounds (lower Formation Energy) tend to cluster around a band gap of $4\text{--}5\text{ eV}$ <br>
 **Insights:** The color gradient (Band Gap Intensity) allows for rapid identification of insulators (Yellow) versus metallic conductors (Deep Blue).
