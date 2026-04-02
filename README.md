@@ -39,7 +39,9 @@ By plotting **Formation Energy** ($E_f$) against **Band Gap** ($E_g$), we can ca
 ## 📬 Contact & Collaboration
 I am a **Physics MSc** graduate (Condensed Matter) currently transitioning into **Materials Informatics** and **Data Science**. I am based in **Edison, New Jersey**, and I am open to entry-level roles or research collaborations.
 
-* **LinkedIn:** [https://www.linkedin.com/in/heli-patel-4447063aa?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+* **LinkedIn:** [www.linkedin.com/in/
+heli-patel-a2b652301
+]
 * **Email:** [helip955@gmail.com]
 * **Location:** Edison, NJ (Open to remote or local NJ/NY roles)
 * **Expertise:** Physics Research, Python (Data Analysis), Materials Project API, and Machine Learning.
